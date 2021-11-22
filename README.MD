@@ -74,3 +74,30 @@ function persona(){
 | ------ | -------- | --------- |
 | Jiram | Hernandez | 4444444 |
 | dad | Hadsderez | 44555 |
+
+# Citas
+Esto es un texto referente a la cita de debajo:
+> Esto es una cita.
+
+Esto es otro texto fuera de la cita:
+> Esto es otra Cita 
+Con dos lineas
+
+# Lineas Divisoras
+Esto es un texto dividido por guiones medios.
+
+---
+Estp es otro texto dividido por asteriscos.
+
+***
+Esto es otro texto dividido por guiones bajos.
+
+___
+
+# Saltos de Linea
+Esto es un primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
+- lista
