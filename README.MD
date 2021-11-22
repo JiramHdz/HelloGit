@@ -68,3 +68,9 @@ function persona(){
     }
 }
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Jiram | Hernandez | 4444444 |
+| dad | Hadsderez | 44555 |
