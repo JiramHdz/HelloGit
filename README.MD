@@ -39,3 +39,32 @@ Underline 2
 
 # Imagenes
 ![Logo Github](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+
+# Sode Snippets
+Codigo de Json
+```JSON
+ [
+     {
+         "title":"apple",
+
+     },
+    {
+        "title" :"banana"
+     }
+ ]
+```
+
+Codigo JavaScript
+```Javascript
+function persona(){
+    try{
+        var i = 0;
+        if(i>1 ){
+            alert("Hola")
+        }
+    }
+    catch (error e){
+        alert("hubo un error")
+    }
+}
+```
